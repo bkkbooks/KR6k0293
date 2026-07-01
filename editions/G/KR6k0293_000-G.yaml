@@ -1,0 +1,17 @@
+canonical_identifier: bkk:krp/KR6k0293/g/v1/juan/0
+seq: 0
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 青年佛徒應注意的四項
+  edition:
+    short: g
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/G/G104/G104n2278.xml
+    old_id: G104n2278
+hash: sha256:ff60dfc63a743d8e9fc39b0dd9e4e422a3c1bbfdf881de13cffe619daa810193

@@ -1,0 +1,96 @@
+canonical_identifier: bkk:krp/KR6k0293/v1
+canonical_location: https://kanripo.org/bkk/KR6k0293/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:7cf5854f9b7b99617990762b56ca5289dd34e1992baf324bb7716157d9a4b2ee
+metadata:
+  title: 青年佛徒應注意的四項
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/G/G104/G104n2278.xml
+    old_id: G104n2278
+  edition:
+    short: bkk
+assets:
+  parts:
+  - {seq: 0, filename: KR6k0293_000.yaml, hash: 'sha256:ff60dfc63a743d8e9fc39b0dd9e4e422a3c1bbfdf881de13cffe619daa810193'}
+  - {seq: 1, filename: KR6k0293_001.yaml, hash: 'sha256:ccc996446bdd8259458d860d5e9e93a4cab8c7cfcca829b52de872e45676b8b8'}
+  markers:
+  - {seq: 1, role: markers, filename: assets/KR6k0293_001.markers.yaml, hash: 'sha256:2ee116badaff0aa512f35767cf2b19c06c1f656f3934ad79dab9afe99c470a4b'}
+table_of_contents:
+- ref:
+    seq: 1
+    marker_id: KR6k0293_G_001-juan-start
+    span:
+    - body
+    - 0
+    - 2714
+  label: 青年佛徒應注意的四項丙子正月開學日在南普陀寺佛教養正院講
+  type: juan
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6k0293_G_001-mulu-1
+    span:
+    - body
+    - 3
+    - 3
+  label: 前文
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6k0293_G_001-mulu-2
+    span:
+    - body
+    - 256
+    - 256
+  label: 一　惜福
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6k0293_G_001-mulu-3
+    span:
+    - body
+    - 1193
+    - 1193
+  label: 二　習勞
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6k0293_G_001-mulu-4
+    span:
+    - body
+    - 1896
+    - 1896
+  label: 三　持戒
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6k0293_G_001-mulu-5
+    span:
+    - body
+    - 2127
+    - 2127
+  label: 四　自尊
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6k0293_G_001-mulu-6
+    span:
+    - body
+    - 2586
+    - 2586
+  label: 結語
+  type: mulu
+  level: 1
+hash: sha256:de05f23ddffab6078ff01c9013b97eecd90a928ed8f89d7b2527327a11d839f9
+mappings:
+- canonical_identifier: bkk:mapping/variant-fold-v1
+  hash: sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e
+editions:
+- short: G

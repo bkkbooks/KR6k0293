@@ -2,7 +2,7 @@ canonical_identifier: bkk:krp/KR6k0293/v1
 canonical_location: https://kanripo.org/bkk/KR6k0293/v1
 canonical_set:
   identifier: bkk:charset/cjk-v1
-  hash: sha256:7cf5854f9b7b99617990762b56ca5289dd34e1992baf324bb7716157d9a4b2ee
+  hash: sha256:37995e65f5e6cdc8cfbc980fea50ec86663e3e7de950809f7e37f003754b3227
 metadata:
   title: 青年佛徒應注意的四項
   source:
@@ -14,10 +14,10 @@ metadata:
 assets:
   parts:
   - {seq: 0, filename: KR6k0293_000.yaml, hash: 'sha256:ff60dfc63a743d8e9fc39b0dd9e4e422a3c1bbfdf881de13cffe619daa810193'}
-  - {seq: 1, filename: KR6k0293_001.yaml, hash: 'sha256:e06dfaee3b3e6b96f53c6dd1525270de35db84d0acb3220dd26cd4e3066b0476'}
+  - {seq: 1, filename: KR6k0293_001.yaml, hash: 'sha256:e5120a521781767f1f35facc69df1b5aad306d728de7b4defa0cdd75604d7b14'}
   markers:
   - {seq: 0, role: markers, filename: assets/KR6k0293_000.markers.yaml, hash: 'sha256:c93d56684cce2d54bd6d62756e09f997423918898ac66902d3c97801ef5092de'}
-  - {seq: 1, role: markers, filename: assets/KR6k0293_001.markers.yaml, hash: 'sha256:70154d4d6369590e27e08bc7ba2dfc779b3179fcadc47855feba684d41d9aecf'}
+  - {seq: 1, role: markers, filename: assets/KR6k0293_001.markers.yaml, hash: 'sha256:8092df5296b3ac2ab5248db137a7194efc8d5a277b07d28a5a1ad7593612c83d'}
 table_of_contents:
 - ref:
     seq: 1
@@ -89,6 +89,9 @@ table_of_contents:
   label: 結語
   type: mulu
   level: 1
-hash: sha256:984eb2afe0f82b24cf12172fb1ac1dcbf9e7eabcca4f9cb611896b889f138931
+hash: sha256:8167d998c7db05f5e3d4ae8455bd135bf71b97f08e10bcd6082796e4a5053ec1
 editions:
 - short: G
+mappings:
+- canonical_identifier: bkk:mapping/variant-fold-v1
+  hash: sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20
